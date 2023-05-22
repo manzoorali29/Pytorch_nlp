@@ -3,4 +3,4 @@ This is a learning based repo which will implement all the basic code for learni
 
 ## Basic single layer Perceptron and Activation Functions
 
-![Activation Functions](images/activations.png)
+![Activation Functions](images/activation.png)
